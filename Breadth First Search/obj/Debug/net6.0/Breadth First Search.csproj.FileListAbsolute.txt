@@ -1,0 +1,15 @@
+C:\Users\tyccr\Documents\Breadth First Search\bin\Debug\net6.0\Breadth First Search.exe
+C:\Users\tyccr\Documents\Breadth First Search\bin\Debug\net6.0\Breadth First Search.deps.json
+C:\Users\tyccr\Documents\Breadth First Search\bin\Debug\net6.0\Breadth First Search.runtimeconfig.json
+C:\Users\tyccr\Documents\Breadth First Search\bin\Debug\net6.0\Breadth First Search.dll
+C:\Users\tyccr\Documents\Breadth First Search\bin\Debug\net6.0\ref\Breadth First Search.dll
+C:\Users\tyccr\Documents\Breadth First Search\bin\Debug\net6.0\Breadth First Search.pdb
+C:\Users\tyccr\Documents\Breadth First Search\obj\Debug\net6.0\Breadth First Search.csproj.AssemblyReference.cache
+C:\Users\tyccr\Documents\Breadth First Search\obj\Debug\net6.0\Breadth First Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyccr\Documents\Breadth First Search\obj\Debug\net6.0\Breadth First Search.AssemblyInfoInputs.cache
+C:\Users\tyccr\Documents\Breadth First Search\obj\Debug\net6.0\Breadth First Search.AssemblyInfo.cs
+C:\Users\tyccr\Documents\Breadth First Search\obj\Debug\net6.0\Breadth First Search.csproj.CoreCompileInputs.cache
+C:\Users\tyccr\Documents\Breadth First Search\obj\Debug\net6.0\Breadth First Search.dll
+C:\Users\tyccr\Documents\Breadth First Search\obj\Debug\net6.0\ref\Breadth First Search.dll
+C:\Users\tyccr\Documents\Breadth First Search\obj\Debug\net6.0\Breadth First Search.pdb
+C:\Users\tyccr\Documents\Breadth First Search\obj\Debug\net6.0\Breadth First Search.genruntimeconfig.cache
